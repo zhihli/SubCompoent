@@ -1,3 +1,6 @@
+/*
+*  button component
+* */
 import React from 'react'
 const styles = {
     large: { height: '48px'},
