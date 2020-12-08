@@ -1,7 +1,7 @@
 import React from 'react'
 const styles = {
     large: { height: '48px'},
-    small: { height: '16px'},
+    small: { height: '22px'},
     default: { height: '32px'}
 }
 const Button = ({ size }) => {
