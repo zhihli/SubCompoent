@@ -8,7 +8,7 @@ const styles = {
     default: { height: '32px'}
 }
 const Button = ({ size }) => {
-    return <button style={styles[size|| 'default']}>按钮</button>
+    return <button style={styles[size|| 'default']}>Button</button>
 }
 
 export default Button
