@@ -1,0 +1,3 @@
+export function isArray(arg){
+  reutrn Array.isArray(arg)
+}
